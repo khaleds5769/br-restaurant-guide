@@ -2,7 +2,7 @@
 ## Fast Food
 ---
 Select a specfic category of fast food:
-## Burgers
-## Other (Burritos,Wraps, Fried Chicken,etc.)
+## [Burgers](burgers.md)
+## [Sandwiches,Burritos,Chicken,Etc,](other.md)
 ---
 [Start Over](../home.md)
